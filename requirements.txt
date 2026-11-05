@@ -1,0 +1,7 @@
+# Tested with Python 3.13 and the exact versions in parentheses.
+# Any recent release of these four libraries should work; byte-identical
+# numbers are only guaranteed with the tested versions.
+numpy>=1.26          # (2.5.3)
+pandas>=2.1          # (3.0.5)
+scikit-learn>=1.4    # (1.9.1)
+matplotlib>=3.8      # (3.11.2)

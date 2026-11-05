@@ -1,0 +1,10 @@
+features,model,grid_search_s,refit_s,predict_ms_per_1k_msgs
+tfidf,naive_bayes,3.41,0.215,42.78
+tfidf,logistic_regression,1.69,0.407,77.93
+tfidf,random_forest,28.63,1.627,173.88
+handcrafted,naive_bayes,1.98,0.263,57.66
+handcrafted,logistic_regression,1.2,0.213,50.66
+handcrafted,random_forest,26.84,1.356,174.16
+combined,naive_bayes,3.89,0.458,106.44
+combined,logistic_regression,3.16,0.503,94.29
+combined,random_forest,33.26,1.675,282.34

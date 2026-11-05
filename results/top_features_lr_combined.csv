@@ -1,0 +1,41 @@
+feature,coefficient,direction
+n_phone_numbers,9.610919,spam
+n_money,6.761805,spam
+your,6.523346,spam
+arsenal,6.388051,spam
+rgds,6.279357,spam
+digit_ratio,6.204594,spam
+ringtone,5.866172,spam
+reward_words,5.641171,spam
+n_urls,5.45295,spam
+tones,5.416745,spam
+girls,5.292658,spam
+n_emails,5.259129,spam
+service,4.921531,spam
+avg_word_len,4.890455,spam
+new,4.870184,spam
+call_to_action_words,4.491983,spam
+choose,4.391923,spam
+n_chars,4.362654,spam
+sms,4.344096,spam
+your mobile,4.296882,spam
+punct_ratio,-5.882819,ham
+me,-4.033958,ham
+my,-3.944215,ham
+free sms,-3.005812,ham
+sms to,-3.005812,ham
+on urltoken,-3.005812,ham
+call,-2.97975,ham
+send free,-2.899879,ham
+your call,-2.802301,ham
+am,-2.70128,ham
+got,-2.696476,ham
+hey,-2.68564,ham
+was,-2.621421,ham
+im,-2.612919,ham
+if,-2.530534,ham
+to send,-2.527442,ham
+when,-2.407942,ham
+its,-2.357443,ham
+know,-2.308091,ham
+it,-2.271906,ham

@@ -1,0 +1,41 @@
+feature,coefficient,direction
+phonetoken,23.94916,spam
+moneytoken,17.108414,spam
+urltoken,12.757248,spam
+text,9.072529,spam
+call phonetoken,8.544852,spam
+numtoken numtoken,7.670324,spam
+txt,7.659339,spam
+to phonetoken,7.453558,spam
+your,6.967233,spam
+service,6.71478,spam
+free,6.497218,spam
+reply,6.435835,spam
+arsenal,6.416804,spam
+call,6.397866,spam
+tones,6.321934,spam
+ringtone,6.290062,spam
+mobile,6.281799,spam
+girls,5.815264,spam
+to,5.485671,spam
+won,5.408375,spam
+your call,-4.752559,ham
+my,-4.336092,ham
+me,-3.927125,ham
+got,-3.339022,ham
+ok,-3.270226,ham
+can,-3.00242,ham
+then,-2.701117,ham
+that,-2.55981,ham
+don,-2.532664,ham
+yup,-2.493371,ham
+hey,-2.480596,ham
+when,-2.446438,ham
+its,-2.41582,ham
+think,-2.334122,ham
+home,-2.330046,ham
+he,-2.326871,ham
+at,-2.315183,ham
+da,-2.269446,ham
+am,-2.260247,ham
+it,-2.187389,ham
