@@ -1,0 +1,41 @@
+feature,log_likelihood_ratio,direction
+to phonetoken,6.291757,spam
+claim,5.847342,spam
+prize,5.699419,spam
+phonetoken now,5.678762,spam
+call phonetoken,5.664809,spam
+phonetoken,5.559756,spam
+nokia,5.329998,spam
+box numtoken,5.30123,spam
+your mobile,5.273698,spam
+have won,5.262844,spam
+phonetoken to,5.225668,spam
+moneytoken cash,5.206458,spam
+to claim,5.197323,spam
+ppm,5.187484,spam
+on phonetoken,5.183542,spam
+guaranteed,5.165841,spam
+moneytoken prize,5.152595,spam
+numtoken ppm,5.090523,spam
+tone,5.083493,spam
+phonetoken from,5.051586,spam
+lor,-4.31024,ham
+da,-4.293497,ham
+he,-4.237851,ham
+later,-3.875089,ham
+she,-3.874134,ham
+lol,-3.786282,ham
+anything,-3.72744,ham
+doing,-3.708048,ham
+going to,-3.58189,ham
+ask,-3.57011,ham
+really,-3.520686,ham
+something,-3.495669,ham
+sure,-3.399461,ham
+yup,-3.398028,ham
+said,-3.37181,ham
+cos,-3.368878,ham
+coming,-3.363492,ham
+fine,-3.324441,ham
+need to,-3.319439,ham
+at numtoken,-3.312174,ham

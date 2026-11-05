@@ -1,0 +1,22 @@
+{
+  "quick_mode": false,
+  "seed": 42,
+  "test_size": 0.2,
+  "cv_folds": 5,
+  "cv_scoring": "f1",
+  "decision_threshold": 0.5,
+  "selected_model": {
+    "features": "combined",
+    "model": "naive_bayes",
+    "params": {
+      "alpha": 0.3
+    }
+  },
+  "versions": {
+    "python": "3.13.18",
+    "numpy": "2.5.3",
+    "pandas": "3.0.5",
+    "scikit-learn": "1.9.1",
+    "matplotlib": "3.11.2"
+  }
+}

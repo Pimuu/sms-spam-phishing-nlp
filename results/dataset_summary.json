@@ -1,0 +1,28 @@
+{
+  "n_raw": 5574,
+  "n_raw_spam": 747,
+  "n_duplicates_removed": 415,
+  "n_duplicates_removed_spam": 105,
+  "n_dedup": 5159,
+  "n_dedup_spam": 642,
+  "n_dedup_ham": 4517,
+  "spam_fraction_dedup": 0.1244,
+  "n_train": 4127,
+  "n_train_spam": 514,
+  "n_test": 1032,
+  "n_test_spam": 128,
+  "length_by_class": {
+    "ham": {
+      "n_chars_mean": 70.9,
+      "n_chars_median": 53.0,
+      "n_words_mean": 14.2,
+      "n_words_median": 11.0
+    },
+    "spam": {
+      "n_chars_mean": 137.5,
+      "n_chars_median": 148.0,
+      "n_words_mean": 23.7,
+      "n_words_median": 25.0
+    }
+  }
+}

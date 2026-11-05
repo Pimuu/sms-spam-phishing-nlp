@@ -1,0 +1,21 @@
+id	category	label	text
+P01	delivery	spam	Royal Post: your parcel is on hold due to an unpaid shipping fee of £1.45. Pay now to avoid return: https://rp-redelivery-uk.com/track
+P02	delivery	spam	We attempted to deliver your package today but no one was home. Reschedule your delivery here: parcel-reschedule.info/xT9k
+P03	bank	spam	ALERT: A new device has signed in to your bank account. If this was not you, verify your identity immediately at secure-bank-verify.net
+P04	bank	spam	Your card has been temporarily suspended due to unusual activity. Log in to restore access: http://card-unlock-support.com
+P05	tax	spam	HMRC: You are eligible for a tax refund of £264.82. Claim before it expires: tax-refund-claim.co.uk/id=55102
+P06	toll	spam	Final notice: you have an outstanding toll balance of $6.99. Pay by tomorrow to avoid a $50 late fee: tollpay-services.xyz
+P07	family	spam	Hi Mum, I dropped my phone in the sink, this is my new number. Can you message me on WhatsApp? I need to pay a bill urgently
+P08	job	spam	Hello! We reviewed your profile and have a remote part-time job for you, earn 300-500 per day. Reply YES to learn more
+P09	account	spam	Your streaming subscription payment failed. Update your billing details within 24 hours or your account will be closed: stream-billing-help.com
+P10	crypto	spam	Congratulations! You have received 0.25 BTC from our anniversary giveaway. Withdraw your reward at crypto-claim.top before midnight
+P11	otp	spam	Security team: we detected a login attempt. Please reply with the 6-digit code we just sent you to confirm it was you
+P12	prize	spam	You have been selected as the winner of a £500 supermarket gift voucher! Click to claim your prize: promo-winner.site
+P13	delivery	ham	Your order has been dispatched and will arrive tomorrow between 10:00 and 14:00. You can track it in the app.
+P14	otp	ham	Your verification code is 482913. Do not share this code with anyone. It expires in 10 minutes.
+P15	appointment	ham	Reminder: you have a dental appointment on Thursday at 3:15pm. Reply C to cancel or call the practice to reschedule.
+P16	personal	ham	Running about 15 mins late, traffic is awful. Save me a seat and order me a coffee please
+P17	personal	ham	Happy birthday!! Hope you have an amazing day, let's grab dinner at the weekend to celebrate
+P18	work	ham	Can you send me the slides before the meeting tomorrow? I want to check the numbers on page 4
+P19	personal	ham	Did you get home ok? Text me when you're back
+P20	bank	ham	Thanks for your payment of £45.00 to the electricity company. Your balance will update within one working day.

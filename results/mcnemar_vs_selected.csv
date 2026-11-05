@@ -1,0 +1,9 @@
+features,model,only_selected_correct,only_other_correct,p_value
+tfidf,naive_bayes,6,2,0.289062
+tfidf,logistic_regression,4,0,0.125
+tfidf,random_forest,8,1,0.039062
+handcrafted,naive_bayes,8,1,0.039062
+handcrafted,logistic_regression,4,2,0.6875
+handcrafted,random_forest,3,3,1.0
+combined,logistic_regression,3,3,1.0
+combined,random_forest,5,1,0.21875

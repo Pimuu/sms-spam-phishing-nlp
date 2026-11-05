@@ -1,0 +1,7 @@
+system,true_label,sum,count
+Combined + Naive Bayes,ham,8,8
+Combined + Naive Bayes,spam,9,12
+Hand-crafted + Random Forest,ham,8,8
+Hand-crafted + Random Forest,spam,9,12
+TF-IDF + Naive Bayes,ham,7,8
+TF-IDF + Naive Bayes,spam,8,12
